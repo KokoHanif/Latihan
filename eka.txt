@@ -1,3 +1,4 @@
 Saya Eka
 siswa smk
 jurusan rpl
+baru mulai belajar git & github
