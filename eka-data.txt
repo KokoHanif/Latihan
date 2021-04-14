@@ -3,3 +3,5 @@ Kelas 11 RPL A
 Sedang Belajar Git
 Saya berusia 17 tahun
 Saya suka nonton Film
+Mau belajar framework
+Mau belajar javascript
